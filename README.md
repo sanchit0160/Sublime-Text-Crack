@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="80" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png">
+  <img height="80" src="https://www.sublimetext.com/images/logo.svg">
   <h1>Sublime-Text-Crack</h1>
 </div>
 
