@@ -7,7 +7,11 @@
 
 ---
 #### 1. Manipulte HEX Value manually
-	Replace 1E 40 F6 C7 04 to 0B 40 F6 C7 04
+	Product Version - 4143
+ 	Go to offset 21fe60 and replace 1E to 0B
+
+  	Product Version - 
+ 	Go to offset  and replace  to 
 > []()
 >
 > [](/)
